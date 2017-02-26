@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Solution {
+public class SherlockandValidString {
     
     static Collection characterCount(String inputString) {
         HashMap<Character, Integer> charCountMap = new HashMap<Character, Integer>();
