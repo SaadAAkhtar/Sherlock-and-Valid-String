@@ -10,4 +10,4 @@ The "Sherlock and Valid String" problem is a problem found on hackerrank.com. Th
 
   hfchdkkbfifgbgebfaahijchgeeeiagkadjfcbekbdaifchkjfejckbiiihegacfbchdihkgbkbddgaefhkdgccjejjaajgijdkd
 
-A separate file contains a very large input String that you can also try out.
+A separate file titled "longinput" contains a very large input String that you can also try out.
